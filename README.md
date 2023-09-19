@@ -13,3 +13,6 @@ This automation is focused on Windows and requires [SteamCMD](https://developer.
 - run `./.venv/Scripts/Activate.ps1`
 - run `pip install -r requirements.txt`
 - you can run the script with `python bo3_workshop_download.py`
+
+# Demo gif
+![bo3_workshop_download.py demo](demo.gif)
