@@ -15,4 +15,4 @@ This automation is focused on Windows and requires [SteamCMD](https://developer.
 - you can run the script with `python bo3_workshop_download.py`
 
 # Demo gif
-![bo3_workshop_download.py demo](https://i.imgur.com/HrRPKVg.gifv)
+![bo3_workshop_download.py demo](https://i.imgur.com/HrRPKVg.gif)
